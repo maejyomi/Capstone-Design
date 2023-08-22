@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="junmyeongdang2" size="940.000000 839.000000" />
+    <ImageTarget name="gwangmyeong" size="382.000000 163.000000" />
+    <ImageTarget name="seokjojeon2" size="1440.000000 1080.000000" />
+    <ImageTarget name="junghwamun2" size="515.000000 224.000000" />
+    <ImageTarget name="junmyeongdang" size="1440.000000 1080.000000" />
+    <ImageTarget name="junghwamun" size="1334.000000 1334.000000" />
+    <ImageTarget name="junghwajeon" size="1334.000000 1334.000000" />
+    <ImageTarget name="hamnyeongjeon" size="1440.000000 1080.000000" />
+    <ImageTarget name="deokhongjeon" size="1440.000000 1080.000000" />
+    <ImageTarget name="seokjojeon" size="1440.000000 1080.000000" />
+  </Tracking>
+</QCARConfig>
